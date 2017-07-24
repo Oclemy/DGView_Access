@@ -1,0 +1,12 @@
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\bin\Debug\DGView_Access.exe.config
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\bin\Debug\DGView_Access.exe
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\bin\Debug\DGView_Access.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\bin\Debug\MetroFramework.Design.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\bin\Debug\MetroFramework.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\obj\Debug\DGView_Access.Form1.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\obj\Debug\DGView_Access.Properties.Resources.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\obj\Debug\DGView_Access.csproj.GenerateResource.Cache
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\obj\Debug\DGView_Access.exe
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\obj\Debug\DGView_Access.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\DGView_Access\DGView_Access\obj\Debug\DGView_Access.csprojResolveAssemblyReference.cache
